@@ -14,6 +14,12 @@ function setupSegmentDetailToggles() {
 
     segments.forEach(seg => {
         seg.addEventListener('click', () => {
+
+          // Do nothing if this segment is already active
+          if (seg.classList.contains('active')) {
+                return;
+          }
+            
             const targetId = seg.dataset.id;
             const targetDetail = document.getElementById(targetId);
             const introText = document.getElementById('intro-text')
