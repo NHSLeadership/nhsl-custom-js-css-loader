@@ -2,7 +2,7 @@
 /**
  * Plugin Name: NHSL Custom JS & CSS Loader
  * Description: A simple plugin to load custom JavaScript and CSS.
- * Version: 1.1
+ * Version: 1.2
  * Author: Chris Witham
  *
  * @package nhsl-custom-js-css-loader
