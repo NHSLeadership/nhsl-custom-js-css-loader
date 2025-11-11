@@ -1,0 +1,14 @@
+{
+    "name": "nhsleadership/nhsl-custom-js-css-loader",
+    "description": "A plugin used to load custom CSS and JS into WordPress",
+    "version": "1.2",
+    "type": "wordpress-plugin",
+    "support": {
+        "issues": "https://github.com/NHSLeadership/nhsl-custom-js-css-loader/issues",
+        "source": "https://github.com/NHSLeadership/nhsl-custom-js-css-loader"
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT"
+}
