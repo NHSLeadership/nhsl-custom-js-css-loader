@@ -11,15 +11,15 @@
       }
 
       .seg-1 {
-        fill: #253e87;
+        fill: #330072;
       }
 
       .seg-2 {
-        fill: #009648;
+        fill: #007f3b;
       }
 
       .seg-3 {
-        fill: #ec8a22;
+        fill: #7c2855;
       }
 
       .seg-in {
@@ -27,30 +27,30 @@
       }
 
       .seg-1.seg-sub {
-        fill: #d2dae7;
+        fill: #bfcbe1;
       }
 
       a:hover .seg-1.seg-sub,
       a.active .seg-1.seg-sub {
-        fill: #253e87;
+        fill: #330072;
       }
 
       .seg-2.seg-sub {
-        fill: #d2e9db;
+        fill: #bfdfce;
       }
 
       a:hover .seg-2.seg-sub,
       a.active .seg-2.seg-sub {
-        fill: #009648;
+        fill: #007f3b;
       }
 
       .seg-3.seg-sub {
-        fill: #f5e7d2;
+        fill: #dec9d4;
       }
 
       a:hover .seg-3.seg-sub,
       a.active .seg-3.seg-sub {
-        fill: #ec8a22;
+        fill: #7c2855;
       }
 
     .segment {
@@ -91,7 +91,8 @@
 
     .cls-1 {
         fill: #fff;
-        font-family: ArialMT, Arial;
+        font-family: Aria-BoldlMT, Arial;
+        font-weight:700;
         font-size: 38px;
         opacity: 0  ;
         animation: fadeIn 0.6s ease-out forwards;    
@@ -119,15 +120,15 @@
     }
 
     .details1 .nhsuk-details__text {
-    	border-color: #253e87;
+    	border-color: #330072;
     }
 
     .details2 .nhsuk-details__text {
-    	border-color: #009648;
+    	border-color: #007f3b;
     }
 
     .details3 .nhsuk-details__text {
-    	border-color: #ec8a22;
+    	border-color: #7c2855;
     }
 
     .js-enabled details {
